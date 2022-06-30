@@ -5,7 +5,7 @@
 
 Badges used from [shields.io](https://shields.io/)
 
-[![Stars]((https://img.shields.io/github/stars/tsfEmpaty/PyLogger?style=social))](https://github.com/tsfEmpaty/PyLogger)
+[![Stars](https://img.shields.io/github/stars/tsfEmpaty/PyLogger?style=social)](https://github.com/tsfEmpaty/PyLogger)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 ## FAQ
